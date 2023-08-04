@@ -124,7 +124,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 32px;
+  font-size: 20px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -139,6 +139,7 @@ h6 {
 
 #header .logo a span {
   color:white;
+  font-size:15px ;
 }
 
 #header .logo img {
@@ -146,7 +147,7 @@ h6 {
 }
 .seli{
   font-size: 15px;
-  margin-left: -140px;
+  margin-left: -40px;
   color: white;
 }
 .dave{
@@ -155,10 +156,10 @@ h6 {
 .dreams{
   font-size: 40px;
 }
-.babi{
+/* .babi{
   height: 200px;
   width: 100px;
-}
+} */
 /*--------------------------------------------------------------
 #  Get Startet Button
 --------------------------------------------------------------*/
