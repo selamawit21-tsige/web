@@ -124,7 +124,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 20px;
+  font-size: 32px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -139,15 +139,15 @@ h6 {
 
 #header .logo a span {
   color:white;
-  font-size:15px ;
+  
 }
 
 #header .logo img {
-  max-height: 60px;
+  max-height: 40px;
 }
 .seli{
   font-size: 15px;
-  margin-left: -40px;
+  margin-left: -50px;
   color: white;
 }
 .dave{
